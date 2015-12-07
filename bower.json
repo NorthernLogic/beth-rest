@@ -1,0 +1,26 @@
+{
+  "name": "beth-rest",
+  "version": "1.0.3",
+  "authors": [
+    "Zachary Jones <zacharytamas@gmail.com>"
+  ],
+  "description": "Declaratively describe REST services with HTML to automatically generate JavaScript clients for those APIs.",
+  "keywords": [
+    "web-component",
+    "polymer"
+  ],
+  "main": "beth-rest.html",
+  "license": "http://polymer.github.io/LICENSE.txt",
+  "homepage": "https://github.com/NorthernLogic/beth-rest/",
+  "ignore": [
+    "/.*",
+    "/test/"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.1.0"
+  },
+  "devDependencies": {
+    "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
+    "web-component-tester": "*"
+  }
+}
